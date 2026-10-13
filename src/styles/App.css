@@ -1,1 +1,8 @@
 /* Your CSS code here. */
+
+.show{
+    visibility:visible;
+}
+.hide{
+    visibility: hidden;
+}
